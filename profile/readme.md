@@ -280,10 +280,10 @@ All the software, such as plugins and maps, is made available under the MIT Lice
 <!-- CONTACT -->
 ## Contact
 
-Timo Klabbers - timo.klabbers@scouting.nl </br>
+Timo Klabbers - Timo.Klabbers@scouting.nl </br>
 Franck van Velzen - Franck.van.velzen@scouting.nl
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/ScoutCraft-Scouting-Nederland](https://github.com/ScoutCraft-Scouting-Nederland)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

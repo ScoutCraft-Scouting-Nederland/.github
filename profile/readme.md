@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ScoutCraft-Scouting-Nederland/">
-    <img src="https://raw.githubusercontent.com/ScoutCraft-Scouting-Nederland/.github/b233df2dd658fc315d87842a1b1667a26b1be5a5/profile/images/logo.png" alt="Logo" width="160" height="80">
+    <img src="https://raw.githubusercontent.com/ScoutCraft-Scouting-Nederland/.github/b233df2dd658fc315d87842a1b1667a26b1be5a5/profile/images/logo.png" alt="Logo" width="160" height="160">
   </a>
 
 <h3 align="center">ScoutCraft</h3>

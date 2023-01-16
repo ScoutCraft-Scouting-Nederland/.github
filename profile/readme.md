@@ -43,7 +43,7 @@ We made many servers with lots of configs for plugins and server software. For m
 Some of our servers come without a map, because the map was to big or we thought it would be better to start the server with a new world. All the maps are also downloadable.
 
 #### Proxy
-As proxy we used a waterfall server which made it possible to connect all our servers. 
+As proxy we used a velocity server which made it possible to connect all our servers. 
 
 #### Survival
 

@@ -15,7 +15,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-ScoutCraft was, during Corona, the place for Dutch Scouts to meet each other and make new friends. On the Minecraft server and in the Discord community about 5000 scouts spent over 150.000 hours. As the projects stops, after exactly 3 years, on 28 april 2023, we decided to make a lot of our resources available, as is. This file is an overview of what we have available and links to all our different repositories.
+ScoutCraft was, during COVID-19, the place to be for the Dutch Scouts to meet each other and make new friends. On the Minecraft server and in the Discord community about 5000 scouts spent over 150.000 hours. As the projects stops, after exactly 3 years, on 28 april 2023, we decided to make a lot of our resources available, as is. This file is an overview of what we have available and links to all our different repositories.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Maintenance

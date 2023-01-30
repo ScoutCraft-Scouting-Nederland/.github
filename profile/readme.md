@@ -30,7 +30,6 @@ All our self made plugins have their own repository. Here you can find all the i
 
 - PillowFight
 - Levend Statego
-- Werewolves
 - Eagle
 - Geocache
 - Hangman
@@ -281,7 +280,7 @@ All the software, such as plugins and maps, is made available under the MIT Lice
 ## Contact
 
 Timo Klabbers - Timo.Klabbers@scouting.nl </br>
-Franck van Velzen - Franck.van.velzen@scouting.nl
+Franck van Velzen - Franck.van.Velzen@scouting.nl
 
 Project Link: [https://github.com/ScoutCraft-Scouting-Nederland](https://github.com/ScoutCraft-Scouting-Nederland)
 
